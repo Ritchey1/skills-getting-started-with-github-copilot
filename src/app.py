@@ -49,7 +49,7 @@ activities = {
         "description": "Learn and practice tennis skills on outdoor courts",
         "schedule": "Wednesdays and Saturdays, 3:00 PM - 4:30 PM",
         "max_participants": 16,
-        "participants": ["jessica@mergington.edu"]      
+        "participants": ["jessica@mergington.edu"]
     },
     "Art Studio": {
         "description": "Explore painting, drawing, and visual arts projects",
